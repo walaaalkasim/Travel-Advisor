@@ -1,5 +1,17 @@
 
 # Travel Advisor Application
+
+choose from list of * restaurants
+                    * hotels
+                    * attractions
+
+to see the places on map as cards with images and details.
+you can choose to see the place on trip advisor website
+or you can call the place as you get the number shown on the screen
+
+enjoy your travel !
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
